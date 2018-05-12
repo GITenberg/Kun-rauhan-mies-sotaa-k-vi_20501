@@ -1,0 +1,39 @@
+_repo: Kun-rauhan-mies-sotaa-k-vi_20501
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Suomalainen, Samuli
+    aliases:
+    - S., Samuli
+    - Samuli S.
+    birthdate: 1850
+    deathdate: 1907
+    gutenberg_agent_id: '7732'
+    url: http://www.gutenberg.org/2009/agents/7732
+    wikipedia: http://fi.wikipedia.org/wiki/Carl_Gustaf_Samuel_Suomalainen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zschokke, Heinrich
+    alias: Zschokke, Johann Heinrich Daniel
+    birthdate: 1771
+    deathdate: 1848
+    gutenberg_agent_id: '5011'
+    url: http://www.gutenberg.org/2009/agents/5011
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_Zschokke
+description: ''
+gutenberg_issued: '2007-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20501'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: Kun rauhan mies sotaa kävi
+url: http://www.gutenberg.org/ebooks/20501
